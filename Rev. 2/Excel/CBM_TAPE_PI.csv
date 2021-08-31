@@ -1,0 +1,16 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"3MM";"3MM";"LD1";"";"";
+"1";"";"6410-4P";"6410-4P";"J3";"6410/22-27-2041";"";
+"1";"";"6410-5P";"6410-5P";"J4";"6410/22-27-2051";"";
+"1";"";"OPEN";"CP_OP";"JP1";"open Cutpad";"";
+"8";"10k";"RES04";"R-10";"R1, R4, R5, R6, R7, R8, R9, R10";"";"";
+"1";"20k";"RES04";"R-10";"R3";"";"";
+"1";"330R";"RES04";"R-10";"R2";"";"";
+"4";"BC547B";"BC547B";"TO92";"Q1, Q3, Q4, Q5";"NPN Transistor";"";
+"1";"BC557B";"BC557B";"TO92-EBC";"Q2";"PNP Transistror";"";
+"1";"C64-TAPEPORT";"C64-TAPEPORT";"TAPEPORT";"J1";"";"";
+"1";"FCR681465P";"FCR681465P";"FCR681465P";"J2";"";"";
+"1";"JTP-1130";"JTP-1130";"JTP-1130";"SW1";"";"";
+"1";"L1,2_R";"L1,2_R";"1,2MM_R";"J5";"";"";
+"1";"OPEN_SOURCE_HW";"OPEN_SOURCE_HW";"OPENHW";"U$2";"";"";
+"1";"RASPBERRYPI-40-PIN-GPIOUSDWN";"RASPBERRYPI-40-PIN-GPIOUSDWN";"PI_HAT_40P_UPSIDEDOWN";"M1";"40 pin GPIO header with the footprint of a HAT";"";
