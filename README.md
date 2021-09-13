@@ -13,3 +13,5 @@ The PCB has an option for a barrel connector Power Supply. Also, for possible fu
 Debugging result so far:
 
 There is a screw up with signals <b>BCM11</b>, it shoudl be connected to the collector of Q4, but the signal name is screwed up. A botch wire is required between the collector of Q4/R8 and Pin 23/BCM11 of the Raspberry Pi.
+
+<img src="https://github.com/svenpetersen1965/CBM-Tape-Pi-PCB/blob/main/Rev.%202/pictures/9635_BCM11_botch_wire.JPG" width="300" alt="CBM Tape Pi PCB v2">
