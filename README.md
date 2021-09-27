@@ -15,3 +15,6 @@ Debugging result so far:
 There is a screw up with signals <b>BCM11</b>, it shoudl be connected to the collector of Q4, but the signal name is screwed up. A botch wire is required between the collector of Q4/R8 and Pin 23/BCM11 of the Raspberry Pi.
 
 <img src="https://github.com/svenpetersen1965/CBM-Tape-Pi-PCB/blob/main/Rev.%202/pictures/9635_BCM11_botch_wire.JPG" width="300" alt="CBM Tape Pi PCB v2">
+
+# Rev. 3
+Rev. 3 fixes the bug of rev. 2. Also the dimensions have changed: the RasPi was moved 4mm away from the edge connector. 
